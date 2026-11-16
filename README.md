@@ -1,4 +1,4 @@
-# pearllevy
+# edward-levy-law
 
 Website for the Law Office of Levy & Guagliardi, a real estate and wills practice in West Caldwell, NJ. A small three-page static site (Home, Services, Contact) built with React and deployed on Netlify.
 
